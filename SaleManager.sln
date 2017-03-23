@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaleManager.Service", "SaleManager.Service\SaleManager.Service.csproj", "{71C85C2F-559A-4D00-8FE5-BBAF543BB8DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaleManager.App", "SaleManager.App\SaleManager.App.csproj", "{C75E0E53-065F-4EC9-8BAF-3018FD2FE746}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaleManager.Data", "SaleManager.Data\SaleManager.Data.csproj", "{463DA8D2-965C-4182-9F58-F6F30410CF37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71C85C2F-559A-4D00-8FE5-BBAF543BB8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C85C2F-559A-4D00-8FE5-BBAF543BB8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C85C2F-559A-4D00-8FE5-BBAF543BB8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C85C2F-559A-4D00-8FE5-BBAF543BB8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75E0E53-065F-4EC9-8BAF-3018FD2FE746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75E0E53-065F-4EC9-8BAF-3018FD2FE746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75E0E53-065F-4EC9-8BAF-3018FD2FE746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75E0E53-065F-4EC9-8BAF-3018FD2FE746}.Release|Any CPU.Build.0 = Release|Any CPU
+		{463DA8D2-965C-4182-9F58-F6F30410CF37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463DA8D2-965C-4182-9F58-F6F30410CF37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463DA8D2-965C-4182-9F58-F6F30410CF37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463DA8D2-965C-4182-9F58-F6F30410CF37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
